@@ -17,6 +17,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "~2.1",
+        "doctrine/common": "~2.2",
         "friendsofsymfony/user-bundle": "dev-master"
     },
     "suggest": {
